@@ -1,7 +1,7 @@
 # ❄️ snowid
 
 ![npm version](https://img.shields.io/npm/v/snowid)
-![npm downloads](https://img.shields.io/npm/dw/snowid)
+[![npm downloads](https://img.shields.io/npm/dw/snowid)](https://www.npmjs.com/package/snowid)
 ![license](https://img.shields.io/npm/l/snowid)
 ![node version](https://img.shields.io/node/v/snowid)
 
