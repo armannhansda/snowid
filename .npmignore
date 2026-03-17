@@ -1,0 +1,61 @@
+# Dependencies
+
+node_modules/
+
+# Logs
+
+*.log
+npm-debug.log*
+
+# Environment files
+
+.env
+.env.*
+
+# Tests
+
+test/
+tests/
+**tests**/
+
+# Coverage reports
+
+coverage/
+
+# Development configs
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Git
+
+.git/
+.gitignore
+
+# Documentation drafts
+
+docs/
+*.md
+
+# Build artifacts (if any)
+
+dist/
+build/
+
+# Temporary files
+
+tmp/
+temp/
+
+# Example projects
+
+examples/
+
+# Local config
+
+*.local
