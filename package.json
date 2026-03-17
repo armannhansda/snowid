@@ -1,0 +1,25 @@
+{
+  "name": "snowid",
+  "version": "1.0.0",
+  "description": "A fast 10-character Base62 Snowflake-style unique ID generator",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "benchmark": "node benchmark/benchmark.js",
+    "sample": "node scripts/generateSample.js"
+  },
+  "keywords": [
+    "id",
+    "unique-id",
+    "snowflake",
+    "distributed-id",
+    "base62",
+    "id-generator"
+  ],
+  "author": "Arman Hansda",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
